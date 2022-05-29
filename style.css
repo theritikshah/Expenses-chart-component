@@ -31,6 +31,12 @@ h3 {
     width: 30%;
 }
 
+@media screen and (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+}
+
 .header p {
     color: white;
 }
